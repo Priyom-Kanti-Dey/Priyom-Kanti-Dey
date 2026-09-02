@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E9EF7,100:8E2DE2&height=200&section=header&text=Priyom%20Kanti%20Dey&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=CST%20Student%20%7C%20Web%20Developer%20%7C%20AI%2FML%20Explorer&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://github.com/Priyom-Kanti-Dey/Priyom-Kanti-Dey/blob/main/adab68b0-a33f-4a75-b072-b14658b81725.png?raw=true" width="100%" alt="Priyom Kanti Dey banner"/>
+
+<br/><br/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Learning+Python+%26+JavaScript+%F0%9F%90%8D;Exploring+AI+%2F+Machine+Learning+%F0%9F%A4%96;Building+Creative+Web+Projects+%F0%9F%8C%90;Future+Tech+Professional+%F0%9F%9A%80" alt="Typing SVG" />
 
